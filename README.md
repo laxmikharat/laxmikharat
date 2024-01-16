@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Springboot, ReactJs**
 
-- 📫 How to reach me **laxmikharat@gmail.com**
+- 📫 How to reach me **laxmikharat24@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
